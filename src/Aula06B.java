@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Aula05B {
+public class Aula06B {
     /*
     Escreva um programa em Java que solicite ao usuário um valor numérico entre 1 e 10.
     Crie um array com essa capacidade e solicite ao usuário um novo valor para armazenar em cada posição do array.

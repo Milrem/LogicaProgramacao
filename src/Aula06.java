@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Aula05 {
+public class Aula06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //Imprimir toda a tabuada desse número (1 x 1 = 1, 1 x 2 = 2, ..., 1 x 9 = 9.
